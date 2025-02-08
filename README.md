@@ -29,7 +29,7 @@ pip install -e .
 # flash attention 2
 pip install flash-attn --no-build-isolation
 # quality of life
-pip install wandb IPython matplotlib
+pip install swanlab IPython matplotlib
 ```
 
 ## Countdown task
