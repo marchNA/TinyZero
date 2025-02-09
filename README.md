@@ -21,7 +21,6 @@ conda create -n zero python=3.9
 pip install torch==2.4.0 --index-url https://download.pytorch.org/whl/cu121
 # install vllm
 pip install vllm==0.6.3 # or you can install 0.5.4, 0.4.2 and 0.3.1
-pip install ray
 
 # verl
 pip install -e .
